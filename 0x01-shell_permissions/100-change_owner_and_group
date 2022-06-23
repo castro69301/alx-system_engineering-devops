@@ -1,2 +1,3 @@
 #!/bin/bash
 chown betty: vicent staff
+chown vicent :chgrp staff
